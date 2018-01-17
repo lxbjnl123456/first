@@ -19,6 +19,7 @@ public class Customer {
 	private Date cust_createtime;
 	private String a;
 	private String b;
+	private String c;
 
 	public Long getCust_id() {
 		return cust_id;
